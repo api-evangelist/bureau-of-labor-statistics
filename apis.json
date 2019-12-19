@@ -1,0 +1,47 @@
+{
+    "name": "Bureau of Labor Statistics",
+    "description": "<p>The Bureau of Labor Statistics (BLS) is a unit of the United States Department of Labor. It is the principal fact-finding agency for the U.S. government in the broad field of labor economics and statistics and serves as a principal agency of the U.S. Federal Statistical System. The BLS is a governmental statistical agency that collects, processes, analyzes, and disseminates essential statistical data to the American public, the U.S. Congress, other Federal agencies, State and local governments, business, and labor representatives. The BLS also serves as a statistical resource to the Department of Labor, and conducts research into how much families need to earn to be able to enjoy a decent standard of living.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/400px-Bureau_of_labor_statistics_logo.svg.png",
+    "tags": [
+        "api provider",
+        "data",
+        "data provider",
+        "have api",
+        "labor"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-labor-statistics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bureau of Labor Statistics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/400px-Bureau_of_labor_statistics_logo.svg.png",
+            "humanURL": "http:\/\/www.bls.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bureau-of-labor-statistics-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.bls.gov\/developers\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bls.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Bureau_of_Labor_Statistics"
+        }
+    ]
+}
